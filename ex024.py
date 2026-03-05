@@ -1,0 +1,2 @@
+nom = str(input('Digite o nome de uma cidade: ')).strip() # pede o nome de uma cidade e remove os espaços
+print(nom[:5].upper() == 'SANTO') # mostra se o nome da cidade começa com "Santo" ou não, ignorando maiusculas e minusculas
