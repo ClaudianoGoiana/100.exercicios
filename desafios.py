@@ -78,7 +78,25 @@
 # ns = s + a
 # print(f'Seu salario {s} o almento de {a} ficou com o salario de {ns}')
 
+#desafio 014
+# temperatura = float(input('Informe a temperatura em °c '))
+# f = 9*temperatura/5+32
+# print(f'A temperatura de {temperatura} °C corresponde a {f}°F')
 
+#desafio 015
+# dias = int(input('Digite quantos dias esta com o carro: '))
+# km = int(input('Digite quantos kilometros foi rodados'))
+# valor = (dias * 60) + (km * 0.15)
+# print(f'O total a pagar {valor}')
+
+#desafio 016
+# num = float(input('digite um numero tipo xx.xxx: '))
+# print(f'O valor digitado foi {num} e sua parte inteira é {int(num)}')
+
+# from math import trunc
+
+# num = float(input('Digite um numero decimal: '))
+# print(f'O valor digitado é {num} e sua parte inteira é {trunc(num)}')
 
 
 
